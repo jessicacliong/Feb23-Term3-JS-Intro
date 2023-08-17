@@ -78,14 +78,9 @@ redirect to login screen
 */
 
 
-
-
 let ifElseResult = null;
 if (true) {
   ifElseResult = console.log("true is truthy");
 } else {
   ifElseResult = console.log("false is falsy");
 }
-
-/*
-
